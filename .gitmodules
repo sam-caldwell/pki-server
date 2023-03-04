@@ -1,6 +1,0 @@
-[submodule "upstream/pki-server"]
-	path = upstream/pki-server
-	url = git@github.com:sam-caldwell/pki-server.git
-[submodule "upstream/openxpki"]
-	path = upstream/openxpki
-	url = git@github.com:openxpki/openxpki.git
